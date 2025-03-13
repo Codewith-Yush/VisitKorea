@@ -39,7 +39,7 @@ _Add screenshots of the website for a preview._
 - Update images in the `assets` folder.
 
 ## 🔗 Live Demo
-[Visit Live Website](travelkoreanow.netlify.app) 🌐
+[Visit Live Website](https://travelkoreanow.netlify.app/) 🌐
 
 ## 📬 Contact
 For inquiries or feedback:
