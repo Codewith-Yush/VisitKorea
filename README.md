@@ -43,6 +43,7 @@ _Add screenshots of the website for a preview._
 
 ## 📬 Contact
 For inquiries or feedback:
-- 📧 Email: your-email@example.com
+- Name : Ayush Singh
+- 📧 Email: ayushsingh7360@gmail.com
   
 Happy Exploring! 🇰🇷✨
